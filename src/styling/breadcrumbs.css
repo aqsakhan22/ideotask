@@ -1,0 +1,18 @@
+.active {
+  color: blue;
+  font-weight: bold;
+}
+
+/* .breadcrumlink:not(:last-of-type)::after {
+    content: "/";
+    margin: 0 5px;
+    color: red;
+  } */
+.breadcrumb {
+  margin-top: 40px;
+  font-size: 20px;
+}
+
+.breadcrumlink {
+  text-decoration: none;
+}
